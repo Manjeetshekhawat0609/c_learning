@@ -53,7 +53,6 @@ int main()
     scanf("%d", &c);
     f = (c * 9/5) + 32;
     printf("the temperature in fahrenheit is %d", f);
-    scanf("%d", &f);
     return 0;
 }
 
