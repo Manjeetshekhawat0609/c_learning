@@ -1,0 +1,2 @@
+Name: manoj, Salary: 1000.00
+Name: manjeet, Salary: 1000000.00
