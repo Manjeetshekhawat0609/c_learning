@@ -8,7 +8,7 @@ A structured repository containing practical implementations, core concepts, and
 
 - **C Fundamentals:** Syntax, Data Types, Operators, Type Casting, and Control Flow (if-else, switch-case)
 - **Loops & Patterns:** `for`, `while`, `do-while` loops, and structured number/star pattern printing
-- **Functions & Scope:** Modular programming, Call by Value vs Call by Reference, and Recursion
+- **Functions & Scope:** Modular programming, Call by Value vs Call by Reference, and Recursion.
 - **Arrays & Strings:** 1D/2D Arrays, Matrix operations, String manipulation, and standard `<string.h>` library functions
 - **Pointers & Memory Management:** Pointer arithmetic, Double pointers, Dynamic Memory Allocation (`malloc`, `calloc`, `realloc`, `free`)
 - **Structures & Unions:** Custom data types, nested structures, and array of structures
